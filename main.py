@@ -1,4 +1,4 @@
-# This  a tic tac toe game written in python
+# This  a tic tac toe game written in python.
 import os
 squares = [None,None,None,None,None,None,None,None,None]
 player1 = 'X'
